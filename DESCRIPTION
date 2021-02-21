@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "David.Bosworth@water.ca.gov",
            comment = c(ORCID = "0000-0003-0740-3390"))
-Description: A collection of R functions used for data analysis and visualizations of DWR's Open Water Mercury Studies. These studies include the Yolo Bypass Mass Balance Study and three Vegetation Senescence studies.
+Description: A collection of commonly-used R functions and datasets that are used for data analysis and visualizations of DWR's Open Water Mercury Studies. These studies include the Yolo Bypass Mass Balance Study and three Vegetation Senescence studies.
 Depends: R (>= 3.6)
 License: Apache License (>= 2.0)
 Encoding: UTF-8
