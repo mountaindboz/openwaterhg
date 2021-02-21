@@ -24,3 +24,5 @@ Imports:
     tibble
 RoxygenNote: 7.1.1
 Roxygen: list(markdown = TRUE)
+URL: https://github.com/mountaindboz/openwaterhg
+BugReports: https://github.com/mountaindboz/openwaterhg/issues
