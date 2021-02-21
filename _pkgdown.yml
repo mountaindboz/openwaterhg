@@ -1,1 +1,26 @@
 url: https://mountaindboz.github.io/openwaterhg
+
+reference:
+- title: "Functions"
+  desc: >
+  Commonly-used functions that are used for data analysis and visualizations of
+  DWR's Open Water Mercury Studies
+- contents:
+  - starts_with("add_")
+  - starts_with("conv_")
+  - summ_stat
+  - theme_owhg
+- title: "Data Sets"
+  desc: >
+  Commonly-used data sets that are used for data analysis and visualizations of
+  DWR's Open Water Mercury Studies
+- contents:
+  - comb_param_calc
+  - conc_data
+  - daily_flow_data_all
+  - daily_flow_data_se
+  - field_data
+  - loads_calc
+  - loads_flow_cf
+  - part_conc_calc
+  - starts_with("qa_")
