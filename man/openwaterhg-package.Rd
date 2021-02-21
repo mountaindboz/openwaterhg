@@ -11,6 +11,7 @@ A collection of commonly-used R functions and datasets that are used for data an
 \seealso{
 Useful links:
 \itemize{
+  \item \url{https://mountaindboz.github.io/openwaterhg}
   \item \url{https://github.com/mountaindboz/openwaterhg}
   \item Report bugs at \url{https://github.com/mountaindboz/openwaterhg/issues}
 }
